@@ -1,0 +1,56 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+/* ---------------navbar--------------- */
+
+
+
+.nav-item .nav-link {
+  color: #222 !important;
+}
+
+.menubar {
+  justify-content: space-between;
+}
+
+
+/* ---------------homepage *--------------- */
+
+.wt-bg-turquoise-tint {
+  background-color: #ddebe3 !important;
+  height: 160px;
+}
+
+
+/* ---------------category homepage-------------- */
+
+.img-radius {
+  border-radius: 50%;
+  height: 120px;
+}
+
+/* ---------------homepage  heading--------------- */
+.key {
+  line-height: 56px;
+  font-weight: lighter;
+}
+
+.key {
+  font-family: Guardian-EgypTT;
+}
+
+/* detail page  */
+.h1-font-size {
+  font-size: 34px;
+}
